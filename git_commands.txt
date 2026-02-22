@@ -1,0 +1,58 @@
+ 2 ls
+   3 ls -l
+   4 rm -testing.py
+   5 git init
+   6 ls
+   7 dir
+   8 clear
+   9 git status
+  10 dir
+  11 ls
+  12 git status
+  13 git add testing.py
+  14 git status
+  15 git commit -m "added testing files"
+  16 git config --global user.name "senu"
+  17 git status
+  18 git commit -m added "testing files"
+  19 git commit -m added "testing.py"
+  20 global user.name "sarthak"
+  21 git config user.name
+  22 git commit -m added "testing.py"
+  23 git status
+  24 git fir
+  25 git dir
+  26 git add testing
+  27 git add testing.py
+  28 git status
+  29 git rm --cached testing.py
+  30 git status
+  31 cllear
+  32 clear
+  33 git status
+  34 clear
+  35 dir
+  36 clear
+  37 python testing.py
+  38 git status
+  39 git add testing.py
+  40 git status
+  41 git commit -m added testing files
+  42 git commit -m added testing.py
+  43 git config user.name
+  44 git  config user.email
+  45 omit
+  46 git status
+  47 git config user.name senu
+  48 git config user.email senu@senus
+  49 git commit -m "added testing files"
+  50 git status
+  51 rm testing.py
+  52 dir
+  53 ls
+  54 clear
+  55 git staus
+  56 git status
+  57 git restore testing.py
+  58 clear
+  59 git status
