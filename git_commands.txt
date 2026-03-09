@@ -1,15 +1,15 @@
- 2 ls
-   3 ls -l
-   4 rm -testing.py
-   5 git init
-   6 ls
-   7 dir
-   8 clear
-   9 git status
-  10 dir
-  11 ls
-  12 git status
-  13 git add testing.py
+ls
+ls -l
+rm -testing.py
+git init
+ls
+dir
+clear
+ git status
+dir
+ls
+git status
+git add testing.py
   14 git status
   15 git commit -m "added testing files"
   16 git config --global user.name "senu"
@@ -56,3 +56,9 @@
   57 git restore testing.py
   58 clear
   59 git status
+   git remote -v
+   3 clear
+   4 git remote -v
+   5 git remote set-url 
+   this is new changes.
+   
